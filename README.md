@@ -1,4 +1,4 @@
-# The implementation of paper "Bilateral Skip-Attention Network for 3D Face Point Cloud Completion" using Pytorch
+# The implementation of paper "Bilateral Skip-Attention Network for 3D Face Point Cloud Completion"
 
 1. Installation
 ```
