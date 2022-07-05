@@ -5,11 +5,9 @@
 pip install -r requirements.txt
 ```
 
-2. Dataset
-Link: https://drive.google.com/drive/folders/1yhcm1nZFp3_-TZ9-fc7j3vDnNn9pBfNb?usp=sharing
+2. Dataset: https://drive.google.com/drive/folders/1yhcm1nZFp3_-TZ9-fc7j3vDnNn9pBfNb?usp=sharing
 
-3. Pretrained models
-Link: https://drive.google.com/drive/folders/1nAnbDkwEU6mwaMvPfdPCkzWsxFgHfk8F?usp=sharing
+3. Pretrained models: https://drive.google.com/drive/folders/1nAnbDkwEU6mwaMvPfdPCkzWsxFgHfk8F?usp=sharing
 
 4. Training
 ```
